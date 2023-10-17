@@ -1,0 +1,6 @@
+U:\VisualStudio\Architecture Korovkin\Lab1\Lab1\bin\Debug\Lab1.exe.config
+U:\VisualStudio\Architecture Korovkin\Lab1\Lab1\bin\Debug\Lab1.exe
+U:\VisualStudio\Architecture Korovkin\Lab1\Lab1\bin\Debug\Lab1.pdb
+U:\VisualStudio\Architecture Korovkin\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+U:\VisualStudio\Architecture Korovkin\Lab1\Lab1\obj\Debug\Lab1.exe
+U:\VisualStudio\Architecture Korovkin\Lab1\Lab1\obj\Debug\Lab1.pdb
