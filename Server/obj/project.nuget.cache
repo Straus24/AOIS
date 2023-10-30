@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j8mpUBmP/QNsRiZr4zHsxPel1BoOh3gJDspi2D6RblB3gMQOWqdejx5+9/Q5UHNpwh7LAHpElGodlNy06KEzLA==",
+  "success": true,
+  "projectFilePath": "D:\\ПРОГРАММИРОВАНИЕ ТПУ\\Лабораторные работы C#\\3 Курс\\Architecture Korovkin\\Lab1\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Админ\\.nuget\\packages\\nlog\\5.2.5\\nlog.5.2.5.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\nlog.schema\\5.2.5\\nlog.schema.5.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}

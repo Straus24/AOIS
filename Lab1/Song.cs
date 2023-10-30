@@ -2,29 +2,20 @@
 {
     class Song
     {
-        private string name;
-        public string Name { get { return name; } set { name = value; } }
-
-
-        private string author;
-        public string Author { get { return author; } set { author = value; } }
-
-
-        private string genre;
-        public string Genre { get { return genre; } set { genre = value; } }
-
-
-        private int year_of_release;
-        public int Year_Of_Release { get { return year_of_release; } set { year_of_release = value; } }
-
-        private int rating_number;
-        public int Rating_Number { get { return rating_number; } set { rating_number = value; } }
-
-        private bool is_top100;
-        public bool Top100
+        public string Name { get  => name;  set => name = value;  }
+        public string Author { get => author; set => author = value; }
+        public string Genre { get => genre;  set => genre = value;  }
+        public int Year_Of_Release { get => year_of_release;  set => year_of_release = value;  }
+        public int Rating_Number { get => rating_number;  set => rating_number = value;  }
+        public bool Is_Top100
         {
-            get { return (rating_number >= 1) && (rating_number <= 100); }
-            set { is_top100 = value; }
+            get  => (rating_number >= 1) && (rating_number <= 100); 
         }
+
+        private string name;
+        private string author;
+        private string genre;
+        private int year_of_release;
+        private int rating_number;
     }
 }

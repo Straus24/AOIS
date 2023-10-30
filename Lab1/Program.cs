@@ -1,10 +1,11 @@
 ﻿using System;
 using System.IO;
 
+
 namespace Lab1
 {
     class Program
-    {
+    { 
         public static void ChooseByNumber(string path)
         {
             Console.Clear();
@@ -35,7 +36,7 @@ namespace Lab1
         {
             using (StreamWriter sw = new StreamWriter(path, true, System.Text.Encoding.Default))
             {
-                sw.WriteLine(song.Name + " " + song.Author + " " + song.Genre + " " + song.Year_Of_Release + " " + song.Rating_Number + " " + song.Top100);
+                sw.WriteLine(song.Name + " " + song.Author + " " + song.Genre + " " + song.Year_Of_Release + " " + song.Rating_Number + " " + song.Is_Top100);
             }
         }
 
@@ -111,7 +112,7 @@ namespace Lab1
 
         static void Main(string[] args)
         {
-            string path = @"U:\VisualStudio\Architecture Korovkin\Lab1\Music_info.csv";
+            string path = "./Music_info.csv";
 
             ConsoleKey key = ConsoleKey.Enter;
             bool running = true;

@@ -1,0 +1,17 @@
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\bin\Debug\net6.0\Server1.exe
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\bin\Debug\net6.0\Server1.deps.json
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\bin\Debug\net6.0\Server1.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\bin\Debug\net6.0\Server1.dll
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\bin\Debug\net6.0\Server1.pdb
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\bin\Debug\net6.0\NLog.dll
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\obj\Debug\net6.0\Server1.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\obj\Debug\net6.0\Server1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\obj\Debug\net6.0\Server1.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\obj\Debug\net6.0\Server1.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\obj\Debug\net6.0\Server1.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\obj\Debug\net6.0\Server1.csproj.CopyComplete
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\obj\Debug\net6.0\Server1.dll
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\obj\Debug\net6.0\refint\Server1.dll
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\obj\Debug\net6.0\Server1.pdb
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\obj\Debug\net6.0\Server1.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ ТПУ\Лабораторные работы C#\3 Курс\Architecture Korovkin\Lab1\Server1\obj\Debug\net6.0\ref\Server1.dll
