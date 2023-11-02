@@ -71,7 +71,6 @@
                             PrintMenu();
                             break;
                         }
-                        break;
                     default:
                         break;
                 }

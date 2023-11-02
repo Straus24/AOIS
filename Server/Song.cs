@@ -2,7 +2,25 @@
 {
     class Song
     {
-        public string? Name { get; set; }
+        public int Id { get; set; }
+        public string Name
+        {
+            get
+            {
+                return name;
+            }
+            set 
+            {
+                if (string.IsNullOrEmpty(value))
+                {
+                    throw new ArgumentException();
+                }
+                else
+                {
+                    name = value;
+                }
+            }
+        }
         public string? Author { get; set; }
         public string? Genre { get; set; }
         public int Year_Of_Release
@@ -47,10 +65,25 @@
         }
         public bool Is_Top100
         {
-            get => (rating_number >= 1) && (rating_number <= 100);
-            set => rating_number = value ? 1 : 0;
+            get
+            {
+                return is_top100;
+            }
+            set 
+            { 
+                if (rating_number >= 1 && rating_number <= 100) 
+                {
+                    is_top100 = true;
+                }
+                else
+                {
+                    is_top100= false;
+                }
+            }
         }
 
+        private bool is_top100;
+        private string name;
         private int year_of_release;
         private int rating_number;
     }

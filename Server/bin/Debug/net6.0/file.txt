@@ -1,254 +1,78 @@
-2023-10-24 20:25:11.6014|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-24 20:25:13.2842|INFO|UdpServer.Server|Received request from 127.0.0.1:55542: 1
-2023-10-24 20:25:13.2842|INFO|UdpServer.Server|Sent response to 127.0.0.1:55542: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
+2023-11-01 12:43:58.8283|INFO|UdpServer.Server|Server started. Listening on port 2403
+2023-11-01 12:44:04.6025|INFO|UdpServer.Server|Received request from 127.0.0.1:64152: 1
+2023-11-01 12:44:10.2669|INFO|UdpServer.Server|Sent response to 127.0.0.1:64152: 
+2023-11-01 12:44:16.3580|INFO|UdpServer.Server|Received request from 127.0.0.1:64645: 1
+2023-11-01 12:44:16.3580|INFO|UdpServer.Server|Sent response to 127.0.0.1:64645: 
+2023-11-01 12:45:02.1507|INFO|UdpServer.Server|Server started. Listening on port 2403
+2023-11-01 12:45:15.3995|INFO|UdpServer.Server|Received request from 127.0.0.1:50087: 4;Attention;Charlie Puth;Pop;2019;10
+2023-11-01 12:45:18.3097|INFO|UdpServer.Server|Sent response to 127.0.0.1:50087: Песня добавлена.
+2023-11-01 12:45:18.3097|INFO|UdpServer.Server|Received request from 127.0.0.1:50088: 1
+2023-11-01 12:45:18.3284|INFO|UdpServer.Server|Sent response to 127.0.0.1:50088: 8: Attention Charlie Puth Pop 2019 10 True
 
-2023-10-24 20:34:41.4701|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-24 20:34:45.0879|INFO|UdpServer.Server|Received request from 127.0.0.1:58938: 1
-2023-10-24 20:34:45.0879|INFO|UdpServer.Server|Sent response to 127.0.0.1:58938: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
+2023-11-01 12:45:27.5513|INFO|UdpServer.Server|Received request from 127.0.0.1:50089: 2;8
+2023-11-01 12:45:27.5566|INFO|UdpServer.Server|Sent response to 127.0.0.1:50089: 8: Attention Charlie Puth Pop 2019 10 True
+2023-11-01 12:53:15.1191|INFO|UdpServer.Server|Server started. Listening on port 2403
+2023-11-01 12:53:18.3174|INFO|UdpServer.Server|Received request from 127.0.0.1:58038: 1
+2023-11-01 12:53:22.4504|INFO|UdpServer.Server|Sent response to 127.0.0.1:58038: 8: Attention Charlie Puth Pop 2019 10 True
 
-2023-10-24 20:34:50.2742|INFO|UdpServer.Server|Received request from 127.0.0.1:51480: 2;2
-2023-10-24 20:34:50.2742|INFO|UdpServer.Server|Sent response to 127.0.0.1:51480: 2: Attention Charlie PUTH Pop 2018 110 False
-2023-10-24 20:34:52.5279|INFO|UdpServer.Server|Received request from 127.0.0.1:54705: 2;1
-2023-10-24 20:34:52.5279|INFO|UdpServer.Server|Sent response to 127.0.0.1:54705: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2023-10-24 20:34:59.5457|INFO|UdpServer.Server|Received request from 127.0.0.1:51294: 1
-2023-10-24 20:34:59.5457|INFO|UdpServer.Server|Sent response to 127.0.0.1:51294: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
+2023-11-01 12:53:48.6696|INFO|UdpServer.Server|Received request from 127.0.0.1:56724: 4;LightSwitch;Charlie Puth;Pop;2020;45
+2023-11-01 12:53:48.8683|INFO|UdpServer.Server|Sent response to 127.0.0.1:56724: Песня добавлена.
+2023-11-01 12:54:13.6553|INFO|UdpServer.Server|Received request from 127.0.0.1:56725: 4;Natural;Imagine Dragons;Rock;2021;120
+2023-11-01 12:54:13.6553|INFO|UdpServer.Server|Sent response to 127.0.0.1:56725: Песня добавлена.
+2023-11-01 12:54:43.9220|INFO|UdpServer.Server|Received request from 127.0.0.1:59374: 4;Bones;Imagine Dragons;Rock;2020;87
+2023-11-01 12:54:43.9220|INFO|UdpServer.Server|Sent response to 127.0.0.1:59374: Песня добавлена.
+2023-11-01 12:55:12.7894|INFO|UdpServer.Server|Received request from 127.0.0.1:59375: 4;Godzilla;Eminem;Rap;2018;133
+2023-11-01 12:55:12.7894|INFO|UdpServer.Server|Sent response to 127.0.0.1:59375: Песня добавлена.
+2023-11-01 12:56:53.9781|INFO|UdpServer.Server|Received request from 127.0.0.1:59376: 4;Binding Lights;The Weekend;Pop;2019;24
+2023-11-01 12:56:53.9781|INFO|UdpServer.Server|Sent response to 127.0.0.1:59376: Песня добавлена.
+2023-11-01 12:56:54.9817|INFO|UdpServer.Server|Received request from 127.0.0.1:59377: 1
+2023-11-01 12:56:55.0059|INFO|UdpServer.Server|Sent response to 127.0.0.1:59377: 8: Attention Charlie Puth Pop 2019 10 True
+9: LightSwitch Charlie Puth Pop 2020 45 True
+10: Natural Imagine Dragons Rock 2021 120 False
+11: Bones Imagine Dragons Rock 2020 87 True
+12: Godzilla Eminem Rap 2018 133 False
+13: Binding Lights The Weekend Pop 2019 24 True
 
-2023-10-24 21:39:37.8731|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-24 21:39:39.6209|INFO|UdpServer.Server|Received request from 127.0.0.1:56683: 1
-2023-10-24 21:39:39.6209|INFO|UdpServer.Server|Sent response to 127.0.0.1:56683: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
+2023-11-01 13:30:20.0668|INFO|UdpServer.Server|Server started. Listening on port 2403
+2023-11-01 13:30:27.8009|INFO|UdpServer.Server|Received request from 127.0.0.1:53595: 1
+2023-11-01 13:30:31.9251|INFO|UdpServer.Server|Sent response to 127.0.0.1:53595: 8: Attention Charlie Puth Pop 2019 10 True
+9: LightSwitch Charlie Puth Pop 2020 45 True
+10: Natural Imagine Dragons Rock 2021 120 False
+11: Bones Imagine Dragons Rock 2020 87 True
+12: Godzilla Eminem Rap 2018 133 False
+13: Binding Lights The Weekend Pop 2019 24 True
 
-2023-10-24 21:40:48.2135|INFO|UdpServer.Server|Received request from 127.0.0.1:61836: 4;Holywoods's Bleeding;Post Malone;Pop;2019;1
-2023-10-24 21:40:48.2135|INFO|UdpServer.Server|Sent response to 127.0.0.1:61836: Песня добавлена.
-2023-10-24 21:40:49.2250|INFO|UdpServer.Server|Received request from 127.0.0.1:61837: 1
-2023-10-24 21:40:49.2250|INFO|UdpServer.Server|Sent response to 127.0.0.1:61837: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
+2023-11-01 13:31:10.3118|INFO|UdpServer.Server|Received request from 127.0.0.1:53596: 4;Attention;Charlie;Pop;1902;210
+2023-11-01 13:31:10.5151|INFO|UdpServer.Server|Sent response to 127.0.0.1:53596: Песня добавлена.
+2023-11-01 13:31:12.7192|INFO|UdpServer.Server|Received request from 127.0.0.1:53597: 1
+2023-11-01 13:31:12.7429|INFO|UdpServer.Server|Sent response to 127.0.0.1:53597: 8: Attention Charlie Puth Pop 2019 10 True
+9: LightSwitch Charlie Puth Pop 2020 45 True
+10: Natural Imagine Dragons Rock 2021 120 False
+11: Bones Imagine Dragons Rock 2020 87 True
+12: Godzilla Eminem Rap 2018 133 False
+13: Binding Lights The Weekend Pop 2019 24 True
+14: Attention Charlie Pop 1902 210 False
 
-2023-10-24 21:41:30.7297|INFO|UdpServer.Server|Received request from 127.0.0.1:64465: 4;Natural;Imagine Dragons;Rock;2021;200
-2023-10-24 21:41:30.7297|INFO|UdpServer.Server|Sent response to 127.0.0.1:64465: Песня добавлена.
-2023-10-24 21:42:23.4273|INFO|UdpServer.Server|Received request from 127.0.0.1:61493: 4;Bones;Imagine Dragons;Pop;2021;99
-2023-10-24 21:42:23.4273|INFO|UdpServer.Server|Sent response to 127.0.0.1:61493: Песня добавлена.
-2023-10-24 21:43:09.5006|INFO|UdpServer.Server|Received request from 127.0.0.1:64323: 4;Godzilla;Eminem;Rap;2018;50
-2023-10-24 21:43:09.5006|INFO|UdpServer.Server|Sent response to 127.0.0.1:64323: Песня добавлена.
-2023-10-24 21:44:15.3168|INFO|UdpServer.Server|Received request from 127.0.0.1:50958: 4;STAY;The Kid LAROI;Pop;2020;15
-2023-10-24 21:44:15.3168|INFO|UdpServer.Server|Sent response to 127.0.0.1:50958: Песня добавлена.
-2023-10-24 21:45:08.0870|INFO|UdpServer.Server|Received request from 127.0.0.1:63934: 4;Centuries;Fall Out Boy;Pop;2014;300
-2023-10-24 21:45:08.0870|INFO|UdpServer.Server|Sent response to 127.0.0.1:63934: Песня добавлена.
-2023-10-24 21:45:09.4182|INFO|UdpServer.Server|Received request from 127.0.0.1:58572: 1
-2023-10-24 21:45:09.4182|INFO|UdpServer.Server|Sent response to 127.0.0.1:58572: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Natural Imagine Dragons Rock 2021 200 False
-5: Bones Imagine Dragons Pop 2021 99 True
-6: Godzilla Eminem Rap 2018 50 True
-7: STAY The Kid LAROI Pop 2020 15 True
-8: Centuries Fall Out Boy Pop 2014 300 False
+2023-11-01 13:31:25.1378|INFO|UdpServer.Server|Received request from 127.0.0.1:61372: 3;14
+2023-11-01 13:31:25.2070|INFO|UdpServer.Server|Sent response to 127.0.0.1:61372: Песня удалена.
+2023-11-01 13:31:28.7617|INFO|UdpServer.Server|Received request from 127.0.0.1:61373: 1
+2023-11-01 13:31:28.7927|INFO|UdpServer.Server|Sent response to 127.0.0.1:61373: 8: Attention Charlie Puth Pop 2019 10 True
+9: LightSwitch Charlie Puth Pop 2020 45 True
+10: Natural Imagine Dragons Rock 2021 120 False
+11: Bones Imagine Dragons Rock 2020 87 True
+12: Godzilla Eminem Rap 2018 133 False
+13: Binding Lights The Weekend Pop 2019 24 True
 
-2023-10-24 21:45:24.8700|INFO|UdpServer.Server|Received request from 127.0.0.1:56220: 2;8
-2023-10-24 21:45:24.8700|INFO|UdpServer.Server|Sent response to 127.0.0.1:56220: 8: Centuries Fall Out Boy Pop 2014 300 False
-2023-10-24 21:46:03.0621|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-24 21:46:04.5367|INFO|UdpServer.Server|Received request from 127.0.0.1:60194: 1
-2023-10-24 21:46:04.5388|INFO|UdpServer.Server|Sent response to 127.0.0.1:60194: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Natural Imagine Dragons Rock 2021 200 False
-5: Bones Imagine Dragons Pop 2021 99 True
-6: Godzilla Eminem Rap 2018 50 True
-7: STAY The Kid LAROI Pop 2020 15 True
-8: Centuries Fall Out Boy Pop 2014 300 False
+2023-11-01 13:31:37.3327|INFO|UdpServer.Server|Received request from 127.0.0.1:61374: 3;-10
+2023-11-01 13:31:37.3615|INFO|UdpServer.Server|Sent response to 127.0.0.1:61374: Недопустимый индекс.
+2023-11-02 19:03:59.7796|INFO|UdpServer.Server|Server started. Listening on port 2403
+2023-11-02 19:04:31.1821|INFO|UdpServer.Server|Received request from 127.0.0.1:61504: 1
+2023-11-02 19:04:36.5925|INFO|UdpServer.Server|Sent response to 127.0.0.1:61504: 8: Attention Charlie Puth Pop 2019 10 True
+9: LightSwitch Charlie Puth Pop 2020 45 True
+10: Natural Imagine Dragons Rock 2021 120 False
+11: Bones Imagine Dragons Rock 2020 87 True
+12: Godzilla Eminem Rap 2018 133 False
+13: Binding Lights The Weekend Pop 2019 24 True
 
-2023-10-24 21:46:47.1699|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-24 21:46:49.2702|INFO|UdpServer.Server|Received request from 127.0.0.1:56371: 1
-2023-10-24 21:46:49.2702|INFO|UdpServer.Server|Sent response to 127.0.0.1:56371: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Natural Imagine Dragons Rock 2021 200 False
-5: Bones Imagine Dragons Pop 2021 99 True
-6: Godzilla Eminem Rap 2018 50 True
-7: STAY The Kid LAROI Pop 2020 15 True
-8: Centuries Fall Out Boy Pop 2014 300 False
-
-2023-10-24 21:46:51.0523|INFO|UdpServer.Server|Received request from 127.0.0.1:56372: 5
-2023-10-24 21:46:51.0523|INFO|UdpServer.Server|Sent response to 127.0.0.1:56372: Все песни удалены.
-2023-10-24 21:46:52.7774|INFO|UdpServer.Server|Received request from 127.0.0.1:64087: 1
-2023-10-24 21:46:52.7774|INFO|UdpServer.Server|Sent response to 127.0.0.1:64087: 
-2023-10-25 10:40:52.5616|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-25 10:40:55.9210|INFO|UdpServer.Server|Received request from 127.0.0.1:64243: 1
-2023-10-25 10:40:55.9210|INFO|UdpServer.Server|Sent response to 127.0.0.1:64243: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Natural Imagine Dragons Rock 2021 200 False
-5: Bones Imagine Dragons Pop 2021 99 True
-6: Godzilla Eminem Rap 2018 50 True
-7: STAY The Kid LAROI Pop 2020 15 True
-8: Centuries Fall Out Boy Pop 2014 300 False
-
-2023-10-25 10:41:00.0594|INFO|UdpServer.Server|Received request from 127.0.0.1:64244: 2;1
-2023-10-25 10:41:00.0594|INFO|UdpServer.Server|Sent response to 127.0.0.1:64244: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2023-10-25 10:45:28.4993|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-25 10:45:31.6185|INFO|UdpServer.Server|Received request from 127.0.0.1:51836: 1
-2023-10-25 10:45:31.6185|INFO|UdpServer.Server|Sent response to 127.0.0.1:51836: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Natural Imagine Dragons Rock 2021 200 False
-5: Bones Imagine Dragons Pop 2021 99 True
-6: Godzilla Eminem Rap 2018 50 True
-7: STAY The Kid LAROI Pop 2020 15 True
-8: Centuries Fall Out Boy Pop 2014 300 False
-
-2023-10-25 10:50:35.2722|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-25 10:50:36.4704|INFO|UdpServer.Server|Received request from 127.0.0.1:60685: 1
-2023-10-25 10:50:36.4724|INFO|UdpServer.Server|Sent response to 127.0.0.1:60685: 
-2023-10-25 10:50:47.9254|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-25 10:50:49.3494|INFO|UdpServer.Server|Received request from 127.0.0.1:49618: 1
-2023-10-25 10:50:49.3494|INFO|UdpServer.Server|Sent response to 127.0.0.1:49618: 
-2023-10-25 10:50:54.5693|INFO|UdpServer.Server|Received request from 127.0.0.1:49619: 1
-2023-10-25 10:50:54.5693|INFO|UdpServer.Server|Sent response to 127.0.0.1:49619: 
-2023-10-25 10:51:29.4414|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-25 10:51:29.7556|INFO|UdpServer.Server|Received request from 127.0.0.1:54533: 1
-2023-10-25 10:51:29.7556|INFO|UdpServer.Server|Sent response to 127.0.0.1:54533: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Natural Imagine Dragons Rock 2021 200 False
-5: Bones Imagine Dragons Pop 2021 99 True
-6: Godzilla Eminem Rap 2018 50 True
-7: STAY The Kid LAROI Pop 2020 15 True
-8: Centuries Fall Out Boy Pop 2014 300 False
-
-2023-10-25 10:57:19.0654|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-25 10:57:21.6683|INFO|UdpServer.Server|Received request from 127.0.0.1:64977: 1
-2023-10-25 10:57:21.6683|INFO|UdpServer.Server|Sent response to 127.0.0.1:64977: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Natural Imagine Dragons Rock 2021 200 False
-5: Bones Imagine Dragons Pop 2021 99 True
-6: Godzilla Eminem Rap 2018 50 True
-7: STAY The Kid LAROI Pop 2020 15 True
-8: Centuries Fall Out Boy Pop 2014 300 False
-
-2023-10-25 10:57:29.5447|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-25 10:57:31.4512|INFO|UdpServer.Server|Received request from 127.0.0.1:53904: 1
-2023-10-25 10:57:31.4512|INFO|UdpServer.Server|Sent response to 127.0.0.1:53904: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Natural Imagine Dragons Rock 2021 200 False
-5: Bones Imagine Dragons Pop 2021 99 True
-6: Godzilla Eminem Rap 2018 50 True
-7: STAY The Kid LAROI Pop 2020 15 True
-8: Centuries Fall Out Boy Pop 2014 300 False
-
-2023-10-25 10:57:36.9198|INFO|UdpServer.Server|Received request from 127.0.0.1:53905: 2;4
-2023-10-25 10:57:36.9198|INFO|UdpServer.Server|Sent response to 127.0.0.1:53905: 4: Natural Imagine Dragons Rock 2021 200 False
-2023-10-25 10:57:40.1137|INFO|UdpServer.Server|Received request from 127.0.0.1:51184: 2;4r
-2023-10-25 10:57:40.1379|INFO|UdpServer.Server|Sent response to 127.0.0.1:51184: 4r не является номером!
-2023-10-25 10:58:46.4320|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-25 10:58:49.2385|INFO|UdpServer.Server|Received request from 127.0.0.1:64289: 1
-2023-10-25 10:58:49.2385|INFO|UdpServer.Server|Sent response to 127.0.0.1:64289: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Natural Imagine Dragons Rock 2021 200 False
-5: Bones Imagine Dragons Pop 2021 99 True
-6: Godzilla Eminem Rap 2018 50 True
-7: STAY The Kid LAROI Pop 2020 15 True
-8: Centuries Fall Out Boy Pop 2014 300 False
-
-2023-10-25 10:58:57.4547|INFO|UdpServer.Server|Received request from 127.0.0.1:60039: 2;3
-2023-10-25 10:58:57.4559|INFO|UdpServer.Server|Sent response to 127.0.0.1:60039: 3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-2023-10-25 10:59:23.5159|INFO|UdpServer.Server|Received request from 127.0.0.1:60040: 2;5
-2023-10-25 10:59:23.5159|INFO|UdpServer.Server|Sent response to 127.0.0.1:60040: 5: Bones Imagine Dragons Pop 2021 99 True
-2023-10-25 10:59:32.7702|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-25 10:59:33.6741|INFO|UdpServer.Server|Received request from 127.0.0.1:52708: 1
-2023-10-25 10:59:33.6741|INFO|UdpServer.Server|Sent response to 127.0.0.1:52708: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Natural Imagine Dragons Rock 2021 200 False
-5: Bones Imagine Dragons Pop 2021 99 True
-6: Godzilla Eminem Rap 2018 50 True
-7: STAY The Kid LAROI Pop 2020 15 True
-8: Centuries Fall Out Boy Pop 2014 300 False
-
-2023-10-25 10:59:42.1964|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-25 10:59:43.1869|INFO|UdpServer.Server|Received request from 127.0.0.1:56283: 1
-2023-10-25 10:59:43.1893|INFO|UdpServer.Server|Sent response to 127.0.0.1:56283: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Natural Imagine Dragons Rock 2021 200 False
-5: Bones Imagine Dragons Pop 2021 99 True
-6: Godzilla Eminem Rap 2018 50 True
-7: STAY The Kid LAROI Pop 2020 15 True
-8: Centuries Fall Out Boy Pop 2014 300 False
-
-2023-10-25 11:05:35.1220|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-25 11:05:45.1383|INFO|UdpServer.Server|Received request from 127.0.0.1:60237: 1
-2023-10-25 11:05:45.1383|INFO|UdpServer.Server|Sent response to 127.0.0.1:60237: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Natural Imagine Dragons Rock 2021 200 False
-5: Bones Imagine Dragons Pop 2021 99 True
-6: Godzilla Eminem Rap 2018 50 True
-7: STAY The Kid LAROI Pop 2020 15 True
-8: Centuries Fall Out Boy Pop 2014 300 False
-
-2023-10-25 11:05:58.8355|INFO|UdpServer.Server|Received request from 127.0.0.1:60238: 2;4
-2023-10-25 11:05:58.8355|INFO|UdpServer.Server|Sent response to 127.0.0.1:60238: 4: Natural Imagine Dragons Rock 2021 200 False
-2023-10-25 11:06:07.4389|INFO|UdpServer.Server|Received request from 127.0.0.1:60239: 1
-2023-10-25 11:06:07.4389|INFO|UdpServer.Server|Sent response to 127.0.0.1:60239: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Natural Imagine Dragons Rock 2021 200 False
-5: Bones Imagine Dragons Pop 2021 99 True
-6: Godzilla Eminem Rap 2018 50 True
-7: STAY The Kid LAROI Pop 2020 15 True
-8: Centuries Fall Out Boy Pop 2014 300 False
-
-2023-10-25 11:06:18.2037|INFO|UdpServer.Server|Received request from 127.0.0.1:60240: 3;4
-2023-10-25 11:06:18.2057|INFO|UdpServer.Server|Sent response to 127.0.0.1:60240: Песня удалена.
-2023-10-25 11:06:21.0411|INFO|UdpServer.Server|Received request from 127.0.0.1:60241: 1
-2023-10-25 11:06:21.0411|INFO|UdpServer.Server|Sent response to 127.0.0.1:60241: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Bones Imagine Dragons Pop 2021 99 True
-5: Godzilla Eminem Rap 2018 50 True
-6: STAY The Kid LAROI Pop 2020 15 True
-7: Centuries Fall Out Boy Pop 2014 300 False
-
-2023-10-25 11:06:48.9606|INFO|UdpServer.Server|Received request from 127.0.0.1:62102: 4;Natural;Imagine Dragons;Rock;2019;190
-2023-10-25 11:06:48.9606|INFO|UdpServer.Server|Sent response to 127.0.0.1:62102: Песня добавлена.
-2023-10-25 11:06:52.1949|INFO|UdpServer.Server|Received request from 127.0.0.1:62103: 1
-2023-10-25 11:06:52.1949|INFO|UdpServer.Server|Sent response to 127.0.0.1:62103: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Bones Imagine Dragons Pop 2021 99 True
-5: Godzilla Eminem Rap 2018 50 True
-6: STAY The Kid LAROI Pop 2020 15 True
-7: Centuries Fall Out Boy Pop 2014 300 False
-8: Natural Imagine Dragons Rock 2019 190 False
-
-2023-10-25 11:07:59.2545|INFO|UdpServer.Server|Received request from 127.0.0.1:62104: 1
-2023-10-25 11:07:59.2545|INFO|UdpServer.Server|Sent response to 127.0.0.1:62104: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Bones Imagine Dragons Pop 2021 99 True
-5: Godzilla Eminem Rap 2018 50 True
-6: STAY The Kid LAROI Pop 2020 15 True
-7: Centuries Fall Out Boy Pop 2014 300 False
-8: Natural Imagine Dragons Rock 2019 190 False
-
-2023-10-25 11:08:03.3132|INFO|UdpServer.Server|Received request from 127.0.0.1:62105: 1
-2023-10-25 11:08:03.3132|INFO|UdpServer.Server|Sent response to 127.0.0.1:62105: 1: LightSwitch Charlie Puth Pop 2019 10 True
-2: Attention Charlie PUTH Pop 2018 110 False
-3: Holywoods's Bleeding Post Malone Pop 2019 1 True
-4: Bones Imagine Dragons Pop 2021 99 True
-5: Godzilla Eminem Rap 2018 50 True
-6: STAY The Kid LAROI Pop 2020 15 True
-7: Centuries Fall Out Boy Pop 2014 300 False
-8: Natural Imagine Dragons Rock 2019 190 False
-
-2023-10-25 11:08:19.4941|INFO|UdpServer.Server|Server started. Listening on port 2403
-2023-10-25 11:10:00.5379|INFO|UdpServer.Server|Received request from 127.0.0.1:54566: 4;sdadas;; ;dssf;-10
-2023-10-25 11:10:00.5553|INFO|UdpServer.Server|Sent response to 127.0.0.1:54566: Числовые данные введены неверно!
-2023-10-25 11:10:20.1043|INFO|UdpServer.Server|Server started. Listening on port 2403
+2023-11-02 19:05:54.9045|INFO|UdpServer.Server|Received request from 127.0.0.1:61957: 2;10
+2023-11-02 19:05:54.9107|INFO|UdpServer.Server|Sent response to 127.0.0.1:61957: 10: Natural Imagine Dragons Rock 2021 120 False
