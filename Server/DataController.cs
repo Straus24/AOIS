@@ -52,5 +52,15 @@ namespace UdpServer
                 return db.songs.ToList();
             }
         }
+
+        public void DeleteDB()
+        {
+            using (SongContext db = new SongContext())
+            {
+                db.Database.ExecuteSqlCommand("TRUNCATE TABLE Songs");
+                db.Database.ExecuteSqlCommand("DBCC CHECKIDENT ('Songs', RESEED, 0)");
+                db.SaveChanges();
+            }
+        }
     }
 }

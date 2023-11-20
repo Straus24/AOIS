@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2", "Lab2\Lab2.csproj", "{21CE20B1-3A69-4CEA-8020-EF49CF61B31B}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "Server\Server.csproj", "{CC3A5BE0-6341-4F6D-88AC-3FDD59DA661C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF_MVVM", "WPF_MVVM\WPF_MVVM.csproj", "{7B8AF715-351A-4C53-B9B6-D81FD2B4A86C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{21CE20B1-3A69-4CEA-8020-EF49CF61B31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21CE20B1-3A69-4CEA-8020-EF49CF61B31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21CE20B1-3A69-4CEA-8020-EF49CF61B31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21CE20B1-3A69-4CEA-8020-EF49CF61B31B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CC3A5BE0-6341-4F6D-88AC-3FDD59DA661C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CC3A5BE0-6341-4F6D-88AC-3FDD59DA661C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC3A5BE0-6341-4F6D-88AC-3FDD59DA661C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC3A5BE0-6341-4F6D-88AC-3FDD59DA661C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8AF715-351A-4C53-B9B6-D81FD2B4A86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8AF715-351A-4C53-B9B6-D81FD2B4A86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8AF715-351A-4C53-B9B6-D81FD2B4A86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8AF715-351A-4C53-B9B6-D81FD2B4A86C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
